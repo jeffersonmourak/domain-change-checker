@@ -1,0 +1,24 @@
+{
+  "name": "domain-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "checker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffersonmourak/domain-change-checker.git"
+  },
+  "author": "jeffersonmourak <jefinho.moura14@gmail.com> (http://jeffersonmourak.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeffersonmourak/domain-change-checker/issues"
+  },
+  "homepage": "https://github.com/jeffersonmourak/domain-change-checker#readme",
+  "dependencies": {
+    "nodemailer": "^1.8.0",
+    "read": "^1.0.7",
+    "sync": "^0.2.5"
+  }
+}

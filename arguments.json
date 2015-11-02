@@ -1,0 +1,19 @@
+[
+	{
+	    "name": "domain",
+	    "shortcut": "d",
+	    "requestValue": true
+	},{
+	    "name": "email",
+	    "shortcut": "e",
+	    "requestValue": true
+	},{
+	    "name": "password",
+	    "shortcut": "p",
+	    "requestValue": false
+	},{
+	    "name": "interval",
+	    "shortcut": "i",
+	    "requestValue": true
+	}
+]
